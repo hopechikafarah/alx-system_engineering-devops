@@ -1,2 +1,2 @@
 #!/bin/bash
-grewp -1 "root" /etc/passwd
+grep -1 "root" /etc/passwd
